@@ -1,7 +1,4 @@
-# yarn workspace的简单使用
-
 ## yarn常见命令
-
 #### 初始化项目
   ```bash
     yarn init
